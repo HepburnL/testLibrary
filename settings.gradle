@@ -1,0 +1,3 @@
+rootProject.name = "ActivityTest"
+include ':app'
+include ':testlibrary'
